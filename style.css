@@ -1,0 +1,122 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    /* border: 1px solid red; */
+}
+
+.container{
+    width: 100%;
+    /* height: 100vh; */
+    background-color: rgb(255, 255, 255);
+
+}
+
+.form ul{
+    margin-left: 820px;
+    display: flex;
+    align-items: center;
+    justify-content: end;
+}
+
+.logostyle{
+    height: 25px;
+}
+
+.main-nav-bg{
+
+    width: 100%;
+}
+
+.carousel-inner img{
+    width: 100%;
+    height: 450px;
+}
+
+main{
+    margin: 40px 0px;
+}
+
+.card{
+    border: none !important;
+}
+
+.card-body{
+    padding: 5px 0px !important;
+}
+
+.msstyle{
+    width: 60%;
+    height: 290px;
+    background-image: url(./img/con.jpg);
+    background-repeat: no-repeat;
+    background-size: contain;
+
+    margin: 20px 0px 50px 230px;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    /* padding-left: 0px; */
+
+}  
+
+button{
+    color: #ffffff;
+    background-color: rgb(77, 77, 255);
+    font-size: 17px;
+    padding: 10px 20px;
+    font-weight: 500;
+    border: none;
+}
+
+
+.btmcardsec{
+    margin: 50px 0;
+}
+
+.socilsec{
+    width: 80%;
+    margin-bottom: 40px;
+}
+
+.fa-youtube{
+    color: red;
+} 
+
+
+.fa-facebook-official{
+    color: rgb(27, 5, 123);
+} 
+
+
+/* footer-row{ */
+
+
+ footer{
+    /* justify-content: center; */
+    /* align-self:center; */
+    display: flex;
+    background: #f2f2f2;
+    padding: 40px 0;
+
+}
+
+ footer li{
+    list-style: none;
+
+}
+
+ footer a{
+    text-decoration: none;
+    color: #818181;
+} 
+
+
+
+.right-div{
+    margin-left: 280px;
+}
+
+
